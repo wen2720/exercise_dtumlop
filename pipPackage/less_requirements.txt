@@ -1,3 +1,4 @@
+#$pipreqs
 loguru==0.7.3
 Markdown==3.7
 matplotlib==3.10.0
