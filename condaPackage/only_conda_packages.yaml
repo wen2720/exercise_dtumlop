@@ -1,0 +1,7 @@
+#conda env export --from-history > environment.yml
+#only record package installed by conda
+name: mlop
+channels:
+  - defaults
+dependencies:
+  - python=3.11

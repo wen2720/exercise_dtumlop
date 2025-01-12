@@ -1,6 +1,10 @@
+# list of packages with exact repository
+# $conda list --explicit > environment.yaml
+
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
+
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/win-64/ca-certificates-2024.12.14-h56e8100_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/tzdata-2024b-h04d1e81_0.conda
